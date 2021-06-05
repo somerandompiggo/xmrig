@@ -1,4 +1,10 @@
-## XMRig without donations
-Although it may seem evil to not help the original project, it is impossible to disable the donate option, which has a minimum of 1% and a default of 5%! That is way too high. It is very simple to disable the donate option once you have the source code, but especially on Windows, its hard to compile.
+## XMRig Without Donations
+Although it may seem evil to not help the original project, it is impossible to disable the donate option without modifying the source code, which has a minimum of 1% and a default of 5%! It is very simple to disable the donate option once you have the source code, but you may not know how / do not wish to compile it.
 
-This repo is a fork of the original, but just with no forced donate, and precompiled.
+If possible, please donate to the developers of XMRig before using this at:
+XMR: 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD
+BTC: 1P7ujsXeX7GxQwHNnJsRMgAdNkFZmNVqJT
+
+# About This Repository:
+Q: What is the difference between this and the original XMRig repository?<br>
+A: This repo is almost an exact fork of the original, with the only change being that you are not required to donate to the developers of XMRig, and that you do not donate by default.
